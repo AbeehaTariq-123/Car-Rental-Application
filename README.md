@@ -82,8 +82,8 @@ The app uses a single `Car` model and two static lists inside `CarsController`:
 ### Run locally
 
 ```bash
-git clone https://github.com/AbeehaTariq-123/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/AbeehaTariq-123/Car-Rental-Application.git
+cd Car-Rental-Application
 dotnet run
 ```
 
